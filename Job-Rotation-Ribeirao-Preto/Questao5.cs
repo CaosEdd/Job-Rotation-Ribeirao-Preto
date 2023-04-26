@@ -10,6 +10,7 @@ namespace Job_Rotation_Ribeirao_Preto
     {
         public static void Resposta5()
         {
+            
             Console.Clear();
             Console.WriteLine("5 - Escreva um programa que inverta os caracteres de um string.");
             Console.WriteLine("Resposta:\n");
@@ -24,17 +25,38 @@ namespace Job_Rotation_Ribeirao_Preto
             {
                 Console.Clear();
                 Console.WriteLine($"Texto normal:{texto}");
-                string textoInvertido = new string(texto.Reverse().ToArray());
-                Console.WriteLine($"Texto invertido:{textoInvertido}");
+                Console.WriteLine($"Texto invertido:{InverterString(texto)}");
+                
+
+                // string textoInvertido = new string(texto.Reverse().ToArray());
+                // Console.WriteLine($"Texto invertido:{textoInvertido}");
             }
             Console.ReadKey();
         }
-
-        public static string InverteString(string s)
+        // Metodo seu utilizar o Array.Reverse()
+        private static string InverterString(string stringInput)
         {
-            char[] arr = s.ToCharArray();
-            Array.Reverse(arr);
-            return new string(arr);
+            string invertida = "";
+            int tamanho;
+
+            tamanho = stringInput.Length - 1;
+
+            while (tamanho >= 0)
+            {
+                invertida = invertida + stringInput[tamanho];
+                tamanho--;
+            }
+            return invertida;
+
         }
+
+        // Metodo utilizando o Array.Reverse()
+
+        //private static string InverteString(string s)
+        //{
+        //    char[] arr = s.ToCharArray();
+        //    Array.Reverse(arr);
+        //    return new string(arr);
+        //}
     }
 }

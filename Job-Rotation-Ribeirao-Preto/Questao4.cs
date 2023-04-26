@@ -17,7 +17,12 @@ namespace Job_Rotation_Ribeirao_Preto
                 "b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)\r\n\r\n" +
                 "c) Explique como chegou no resultado.\n\n");
             Console.WriteLine("Resposta:");
-            Console.WriteLine();
+            Console.WriteLine("Ambos estarão a mesma distancia de Ribeirão preto pois estão se cruzando, então sua posição é a mesma." +
+                "Já em relação ao ponto de encontro, está a 60,9 km de Ribeirão Preto e a equação usada para determinar o ponto de encontro foi:" +
+                " \"distancia = velocidadeCarro * tempo\"" +
+                " para o carro e: \"distancia = 100km - velocidadeCaminhão * tempo\" para o caminhão");
+            Console.WriteLine("Outras formulas usadas: TempoTotalCaminhão(sem pedagios) = distanciaTotal/velocidadeConstante = 1,25h \n" +
+                "VelocidadeCaminhão = distanciaTotal/tempoCaminhão(com pedagios) = 70,6 km/h");
 
 
             Console.ReadKey();
