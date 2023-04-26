@@ -1,0 +1,15 @@
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.csproj.AssemblyReference.cache
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.AssemblyInfoInputs.cache
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.AssemblyInfo.cs
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.csproj.CoreCompileInputs.cache
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\bin\Debug\net7.0\Job-Rotation-Ribeirao-Preto.exe
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\bin\Debug\net7.0\Job-Rotation-Ribeirao-Preto.deps.json
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\bin\Debug\net7.0\Job-Rotation-Ribeirao-Preto.runtimeconfig.json
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\bin\Debug\net7.0\Job-Rotation-Ribeirao-Preto.dll
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\bin\Debug\net7.0\Job-Rotation-Ribeirao-Preto.pdb
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.dll
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\refint\Job-Rotation-Ribeirao-Preto.dll
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.pdb
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\Job-Rotation-Ribeirao-Preto.genruntimeconfig.cache
+D:\Documentos\Prova_Ribeirao_Preto\Job-Rotation-Ribeirao-Preto\Job-Rotation-Ribeirao-Preto\obj\Debug\net7.0\ref\Job-Rotation-Ribeirao-Preto.dll
