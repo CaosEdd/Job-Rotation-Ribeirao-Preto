@@ -14,7 +14,7 @@ namespace Job_Rotation_Ribeirao_Preto
             Console.WriteLine("3 - Descubra a lógica e complete o próximo elemento:\n");
             Console.WriteLine("a) 1, 3, 5, 7, ?\n");
             Console.WriteLine("Resposta a: ");
-            Console.WriteLine("Numeros inpares. ? = 9\n\n");
+            Console.WriteLine("Numeros impares. ? = 9\n\n");
 
 
             Console.WriteLine("b) 2, 4, 8, 16, 32, 64, ?\n");
